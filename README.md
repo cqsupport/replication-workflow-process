@@ -2,6 +2,11 @@
 
 Replication process that references with the page or asset that is activated. 
 
+## Usage Instructions
+1. Install the core project bundle to AEM
+2. Go to a workflow such as the "Request for Activation" out-of-the-box one and change the workflow process step from "Activate Page" to "Activate Page w/ References"
+3. Save
+4. When the workflow runs, now it will activate the references in addition to the page
 
 ## Modules
 
