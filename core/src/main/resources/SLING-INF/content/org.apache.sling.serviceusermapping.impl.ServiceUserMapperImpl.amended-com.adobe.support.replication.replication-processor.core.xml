@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<node>
+    <primaryNodeType>sling:OsgiConfig</primaryNodeType>
+    <property>
+        <name>user.default</name>
+        <value></value>
+    </property>
+    <property>
+        <name>user.mapping</name>
+        <values>
+            <value>com.adobe.support.replication-process.core:wcm-workflow-service=[wcm-workflow-service,workflow-service,root-reader-service,content-reader-service,configuration-reader-service,sling-scripting]</value>
+        </values>
+    </property>
+</node>	
