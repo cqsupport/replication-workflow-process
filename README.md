@@ -1,6 +1,6 @@
 # Replication Workflow Process 
 
-Replication process that references with the page or asset that is activated. 
+Replication workflow process step that publishes the page or asset and its references.  This type of publishing is available in the AEM UI as "Quick Publish".
 
 ## Usage Instructions
 1. Install the core project bundle to AEM
